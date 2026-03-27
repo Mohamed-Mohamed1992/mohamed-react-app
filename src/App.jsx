@@ -1,5 +1,5 @@
 import "./App.css";
-import Counter from "./components/counter";
+import Counter from "./components/Counter";
 import Greeting from "./components/Greeting";
 import Header from "./components/Header";
 
